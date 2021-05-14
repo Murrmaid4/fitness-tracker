@@ -6,6 +6,8 @@
 
 This application allows users to track Resistance and Cardio exercises as well as keeps statistics of entries submitted
 
+Find the link to the app here :  https://fitnesstrackthis.herokuapp.com/?id=609f01fe54e6960015f36e70
+
 ## Table of Contents 
 
   - [Installation](#installation)
